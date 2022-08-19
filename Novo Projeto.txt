@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang='pr.dir= "ltr">
+<HTML charset="utf-8">
+<title></title>
+<head>
+    <h1>God of War Ragnarok</h1>
+</head>
+
+<body>
+    <p> God of War Ragnarok é um futuro jogo eletrônico de ação-anentura desenvolvido pela Santa Monica Studio</p>
+</body>
